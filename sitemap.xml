@@ -13,12 +13,24 @@
 		<loc>http://www.chrisbarrett.fr/cv/#!/otherInterests</loc>
 	</url>
 	<url>
+		<loc>http://www.chrisbarrett.fr/cv/#!/coreCompetencies?lang=fr</loc>
+	</url>
+	<url>
+		<loc>http://www.chrisbarrett.fr/cv/#!/experience?lang=fr</loc>
+	</url>
+	<url>
+		<loc>http://www.chrisbarrett.fr/cv/#!/education?lang=fr</loc>
+	</url>
+	<url>
+		<loc>http://www.chrisbarrett.fr/cv/#!/otherInterests?lang=fr</loc>
+	</url>
+	<url>
 		<loc>http://www.chrisbarrett.fr/newsMap/Default.html</loc>
 	</url>
 	<url>
 		<loc>http://www.chrisbarrett.fr/fingerprint/index.html</loc>
 	</url>
 	<url>
-		<loc>http://www.chrisbarrett.fr/election/</loc>
+		<loc>http://www.chrisbarrett.fr/election/index.html</loc>
 	</url>
 </urlset>
